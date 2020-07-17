@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{60E78174-0558-4FEE-91D1-7D3E4111C39B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>JogoGourmet2</RootNamespace>
-    <AssemblyName>JogoGourmet2</AssemblyName>
+    <RootNamespace>JogoGourmet</RootNamespace>
+    <AssemblyName>JogoGourmet</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -75,6 +75,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

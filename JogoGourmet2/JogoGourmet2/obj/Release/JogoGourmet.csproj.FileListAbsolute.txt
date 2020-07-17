@@ -1,0 +1,9 @@
+E:\Diogo Souza\JogoGourmet\JogoGourmet2\JogoGourmet2\bin\Release\JogoGourmet.exe.config
+E:\Diogo Souza\JogoGourmet\JogoGourmet2\JogoGourmet2\bin\Release\JogoGourmet.exe
+E:\Diogo Souza\JogoGourmet\JogoGourmet2\JogoGourmet2\bin\Release\JogoGourmet.pdb
+E:\Diogo Souza\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Release\JogoGourmet.csprojAssemblyReference.cache
+E:\Diogo Souza\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Release\JogoGourmet2.Form1.resources
+E:\Diogo Souza\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Release\JogoGourmet.Properties.Resources.resources
+E:\Diogo Souza\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Release\JogoGourmet.csproj.GenerateResource.cache
+E:\Diogo Souza\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Release\JogoGourmet.exe
+E:\Diogo Souza\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Release\JogoGourmet.pdb

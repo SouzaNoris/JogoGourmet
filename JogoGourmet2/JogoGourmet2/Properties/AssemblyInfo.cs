@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associadas a um assembly.
-[assembly: AssemblyTitle("JogoGourmet2")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("JogoGourmet")]
+[assembly: AssemblyDescription("Desenvolvido por Diogo Souza")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("JogoGourmet2")]
+[assembly: AssemblyProduct("JogoGourmet")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
