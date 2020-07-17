@@ -1,0 +1,9 @@
+C:\Users\souza\source\repos\JogoGourmet2\JogoGourmet2\bin\Debug\JogoGourmet2.exe.config
+C:\Users\souza\source\repos\JogoGourmet2\JogoGourmet2\bin\Debug\JogoGourmet2.exe
+C:\Users\souza\source\repos\JogoGourmet2\JogoGourmet2\bin\Debug\JogoGourmet2.pdb
+C:\Users\souza\source\repos\JogoGourmet2\JogoGourmet2\obj\Debug\JogoGourmet2.Form1.resources
+C:\Users\souza\source\repos\JogoGourmet2\JogoGourmet2\obj\Debug\JogoGourmet2.Properties.Resources.resources
+C:\Users\souza\source\repos\JogoGourmet2\JogoGourmet2\obj\Debug\JogoGourmet2.csproj.GenerateResource.cache
+C:\Users\souza\source\repos\JogoGourmet2\JogoGourmet2\obj\Debug\JogoGourmet2.csproj.CoreCompileInputs.cache
+C:\Users\souza\source\repos\JogoGourmet2\JogoGourmet2\obj\Debug\JogoGourmet2.exe
+C:\Users\souza\source\repos\JogoGourmet2\JogoGourmet2\obj\Debug\JogoGourmet2.pdb
