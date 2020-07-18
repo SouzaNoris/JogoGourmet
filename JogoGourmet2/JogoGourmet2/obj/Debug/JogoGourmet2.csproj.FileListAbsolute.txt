@@ -7,3 +7,12 @@ C:\Users\souza\source\repos\JogoGourmet2\JogoGourmet2\obj\Debug\JogoGourmet2.csp
 C:\Users\souza\source\repos\JogoGourmet2\JogoGourmet2\obj\Debug\JogoGourmet2.csproj.CoreCompileInputs.cache
 C:\Users\souza\source\repos\JogoGourmet2\JogoGourmet2\obj\Debug\JogoGourmet2.exe
 C:\Users\souza\source\repos\JogoGourmet2\JogoGourmet2\obj\Debug\JogoGourmet2.pdb
+E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\bin\Debug\JogoGourmet2.exe.config
+E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\bin\Debug\JogoGourmet2.exe
+E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\bin\Debug\JogoGourmet2.pdb
+E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Debug\JogoGourmet2.Form1.resources
+E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Debug\JogoGourmet2.Properties.Resources.resources
+E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Debug\JogoGourmet2.csproj.GenerateResource.cache
+E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Debug\JogoGourmet2.csproj.CoreCompileInputs.cache
+E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Debug\JogoGourmet2.exe
+E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Debug\JogoGourmet2.pdb

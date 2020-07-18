@@ -1,4 +1,4 @@
-﻿using JogoGourmet2.Service;
+﻿using JogoGourmet2.Model;
 using System;
 using System.Windows.Forms;
 
@@ -6,24 +6,28 @@ namespace JogoGourmet2
 {
     public partial class Form1 : Form
     {
-        public GerenciadorService GerenciadorService { get; set; }
+        public GerenciadorDePratos GerenciadorDePratos { get; set; }
+        public PratoList PratoList { get; set; }
+        public TipoPratoList TipoPratoList { get; set; }
 
         public Form1()
         {
             InitializeComponent();
 
-            InitializeJogo();
+            LoadDefaults();
         }
-        
-        private void InitializeJogo()
+
+        private void LoadDefaults()
         {
-            textLabel.Text = "Pense em um prato que você gosta";
+            PratoList = new PratoList();
+            TipoPratoList = new TipoPratoList();
+
+            GerenciadorDePratos = new GerenciadorDePratos(PratoList, TipoPratoList);
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            GerenciadorService = new GerenciadorService();
-            GerenciadorService.IniciaJogo(GerenciadorService.TipoPratoService);
+            GerenciadorDePratos.IniciaJogo();
         }
     }
 }
