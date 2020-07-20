@@ -58,7 +58,7 @@ namespace JogoGourmet2
             Desisto(prato, pratos ?? new List<Prato>());
         }
 
-        private bool VerificaPratosComNovosElementos(List<Prato> pratosList, bool novoPrato = false, List<Prato> pratos = null)
+        private bool VerificaPratosComNovosElementos(List<Prato> pratosList, bool novoPrato = false)
         {
             foreach (var prato in pratosList)
             {
