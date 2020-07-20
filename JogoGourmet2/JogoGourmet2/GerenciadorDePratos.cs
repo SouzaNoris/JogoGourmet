@@ -64,7 +64,7 @@ namespace JogoGourmet2
             {
                 if (prato.NovoPrato.Any() && !novoPrato)
                 {
-                    if (VerificaPratosComNovosElementos(prato.NovoPrato, true)) 
+                    if (VerificaPratosComNovosElementos(prato.NovoPrato, true))
                         break;
                 }
 
@@ -83,7 +83,7 @@ namespace JogoGourmet2
         private void Desisto(Prato prato, List<Prato> pratos = null)
         {
             var pratoInformado = ShowMessageInput("Qual prato você pensou?", "Desisto");
-            
+
             var tipo = ShowMessageInput($"{pratoInformado} é ________ mas {prato.Nome} não.", "Complete");
 
             if (pratos.Any())

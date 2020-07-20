@@ -16,3 +16,12 @@ E:\Diogo Souza\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Release\JogoGourmet2.Pr
 E:\Diogo Souza\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Release\JogoGourmet2.csproj.GenerateResource.cache
 E:\Diogo Souza\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Release\JogoGourmet2.exe
 E:\Diogo Souza\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Release\JogoGourmet2.pdb
+E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\bin\Release\JogoGourmet2.exe.config
+E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\bin\Release\JogoGourmet2.exe
+E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\bin\Release\JogoGourmet2.pdb
+E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Release\JogoGourmet2.Form1.resources
+E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Release\JogoGourmet2.Properties.Resources.resources
+E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Release\JogoGourmet2.csproj.GenerateResource.cache
+E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Release\JogoGourmet2.csproj.CoreCompileInputs.cache
+E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Release\JogoGourmet2.exe
+E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Release\JogoGourmet2.pdb
