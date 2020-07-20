@@ -51,9 +51,9 @@
             this.textLabel.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textLabel.Location = new System.Drawing.Point(58, 21);
             this.textLabel.Name = "textLabel";
-            this.textLabel.Size = new System.Drawing.Size(181, 16);
+            this.textLabel.Size = new System.Drawing.Size(175, 16);
             this.textLabel.TabIndex = 1;
-            this.textLabel.Text = "Pense em um prato que gosta?";
+            this.textLabel.Text = "Pense em um prato que gosta";
             this.textLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1

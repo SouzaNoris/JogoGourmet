@@ -7,8 +7,7 @@ namespace JogoGourmet2
     public partial class Form1 : Form
     {
         public GerenciadorDePratos GerenciadorDePratos { get; set; }
-        public PratoList PratoList { get; set; }
-        public TipoPratoList TipoPratoList { get; set; }
+        public PratoList CategoriaList { get; set; }
 
         public Form1()
         {
@@ -19,10 +18,8 @@ namespace JogoGourmet2
 
         private void LoadDefaults()
         {
-            PratoList = new PratoList();
-            TipoPratoList = new TipoPratoList();
-
-            GerenciadorDePratos = new GerenciadorDePratos(PratoList, TipoPratoList);
+            CategoriaList = new PratoList();
+            GerenciadorDePratos = new GerenciadorDePratos(CategoriaList);
         }
 
         private void button1_Click(object sender, EventArgs e)

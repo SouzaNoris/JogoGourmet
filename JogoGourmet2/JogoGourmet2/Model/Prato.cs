@@ -5,12 +5,18 @@ namespace JogoGourmet2.Model
     public class Prato
     {
         public string Nome { get; set; }
-        public TipoPrato TipoPrato { get; set; }
+        public string Tipo { get; set; }
+        public List<Prato> NovoPrato { get; set; }
+
+        public Prato()
+        {
+            NovoPrato = new List<Prato>();
+        }
     }
 
     public class PratoList
     {
-        public IList<Prato> Pratos { get; set; }
+        public List<Prato> Pratos { get; set; }
 
         public PratoList()
         {
@@ -20,13 +26,16 @@ namespace JogoGourmet2.Model
         private void SetDadosDefault()
         {
             Pratos = new List<Prato>();
-            Pratos.Add(new Prato { Nome = "Lazanha", TipoPrato = new TipoPrato() { Descricao = "Massa" } });
-            Pratos.Add(new Prato { Nome = "Bolo de chocolate", TipoPrato = new TipoPrato() { Descricao = "Bolo" } });
-        }
-
-        public void AddPrato(string nome, string tipo)
-        {
-            Pratos.Add(new Prato { Nome = nome, TipoPrato = new TipoPrato { Descricao = tipo } });
+            Pratos.Add(new Prato()
+            {
+                Nome = "lasanha",
+                Tipo = "massa",
+            });
+            Pratos.Add(new Prato()
+            {
+                Nome = "Bolo de Chocolate",
+                Tipo = ""
+            });
         }
     }
 }
