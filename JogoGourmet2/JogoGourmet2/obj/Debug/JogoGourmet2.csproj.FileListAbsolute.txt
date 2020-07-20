@@ -16,4 +16,3 @@ E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Debug\JogoGourmet2
 E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Debug\JogoGourmet2.csproj.CoreCompileInputs.cache
 E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Debug\JogoGourmet2.exe
 E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Debug\JogoGourmet2.pdb
-E:\Trabalhos\Testes\JogoGourmet\JogoGourmet2\JogoGourmet2\obj\Debug\JogoGourmet2.csprojAssemblyReference.cache
